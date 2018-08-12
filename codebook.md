@@ -1,7 +1,12 @@
-Identifiers
+###############
+Identifiers####
+###############
 subject - The ID of the test subject, integer, range from 1 to 30
 activity - activity identifier, in set of following 6 possible values (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
-Variables
+
+############
+Variables###
+############
 two different domains, time and frequency.
 
 Average variables of signals in Time domain:
@@ -46,6 +51,8 @@ timeBodyGyroscopeMagnitudeMean
 timeBodyGyroscopeMagnitudeSTD
 timeBodyGyroscopeJerkMagnitudeMean
 timeBodyGyroscopeJerkMagnitudeSTD
+
+
 Average variables of signals in Frequency domain:
 
 frequencyBodyAccelerometerMeanX
